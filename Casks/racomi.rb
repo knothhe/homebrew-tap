@@ -1,6 +1,6 @@
 cask "racomi" do
-  version "0.1.7"
-  sha256 "6607668c82d3c294f2d69e2b00833f3ead6c8ed0acdf13d27424be55500e5436"
+  version "0.1.8"
+  sha256 "a661847c51c544a5154c1114068d8e834da66bcebfb7dbf30e221a806408523f"
 
   url "https://github.com/knothhe/racomi/releases/download/v#{version}/racomi-#{version}-aarch64-macos.zip"
   name "racomi"
